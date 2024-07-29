@@ -1,9 +1,13 @@
 # Credit_Card_Transaction_Dashboard
 
 Overview
+
+
 The Credit Card Transaction Dashboard is a comprehensive data visualization tool designed to provide insights into credit card transactions. This dashboard helps users track, analyze, and manage their credit card spending effectively. It offers a user-friendly interface with various visualizations to aid in understanding spending patterns, detecting anomalies, and making informed financial decisions.
 
 Features
+
+
 Interactive Visualizations: Gain insights through bar charts, pie charts, line graphs, and more.
 Transaction Filtering: Filter transactions by date, category, amount, and merchant.
 Spending Trends: Identify spending trends over different periods (daily, monthly, yearly).
